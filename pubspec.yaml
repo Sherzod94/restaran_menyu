@@ -102,6 +102,6 @@ flutter_native_splash:
   image: "assets/images/4.png"
   android: true
   ios: true
-  web: true
+  web: false
   android_gravity: center
   fullscreen: false

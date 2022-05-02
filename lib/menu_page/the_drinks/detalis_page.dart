@@ -152,7 +152,7 @@ class _Detailspage5State extends State<Detailspage5> {
           ),
           SizedBox(height: 14),
           Text(
-            Meal.mealsUz[widget._selectedItemIndex].detalis!,
+            getMeals()[widget._selectedItemIndex].detalis!,
             style: TextStyle(fontSize: 16),
           ),
         ],

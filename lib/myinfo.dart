@@ -71,7 +71,7 @@ class MyInfo extends StatelessWidget {
                       ),
                     ),
                     Text(
-                        "Ushbu  dastur  Toshkent  viloyati  Bekobod  shahar  ' Shaxona  Jo'jalar '  kafesi  uchun  yaratildi.  \nMualliflar: Toshkent viloyati Bekobod shahar 2-IDUM Informatika fani o'qtuvchilari Sh.I.Ermonov hamda K.A.Temirboyevalar tomonidan yaratildi. "),
+                        "Ushbu  dastur  Toshkent  viloyati  Bekobod  shahar  ' Shaxona  Jo'jalar '  kafesi  uchun  yaratildi. \nMurojat uchun: Tel:  +998 99 336 45 88    \nMualliflar: Toshkent viloyati Bekobod shahar 2-IDUM Informatika fani o'qtuvchilari Sh.I.Ermonov hamda K.A.Temirboyevalar tomonidan yaratildi. "),
                     SizedBox(height: 24,),
                     Text("Murojat uchun:", style: TextStyle(fontWeight: FontWeight.w800),),
                     SizedBox(height: 24,),
